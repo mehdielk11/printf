@@ -41,3 +41,6 @@ Output:
 ```
 Hello, world!
 ```
+### Authors
+
+This project was made by Mehdi Elkhemlichi (https://github.com/mehdielk11) and Mouad Ounih (https://github.com/jeckt4ar)
